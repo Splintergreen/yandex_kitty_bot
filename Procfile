@@ -1,1 +1,1 @@
-worker: python homework.py
+worker: python yandex_kitty_bot.py
